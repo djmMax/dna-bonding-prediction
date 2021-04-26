@@ -6,4 +6,4 @@ specific for sequential data (spectrum, mismatch). The results show that the goo
 kernel is very important to get a good performance.
 Keywords: kernel, DNA, classification
 
-more details in the [report](./Report Kernel Methode.pdf)
+more details in the [report](./Report%20Kernel%20Methode.pdf)
